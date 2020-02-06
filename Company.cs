@@ -23,7 +23,7 @@ public class Company
     private String country;
     private String zip;
     private String address;
-    private String kyle;
+    private String nathan;
 
     //Static Data fields
     public static int nextCompanyID;
